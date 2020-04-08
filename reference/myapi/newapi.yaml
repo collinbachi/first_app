@@ -3,7 +3,7 @@ info:
   title: newapi.yaml
   version: '1.0'
   description: |
-    my new api
+    my new api + new commit
 host: 'localhost:3000'
 schemes:
   - http
